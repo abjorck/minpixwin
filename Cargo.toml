@@ -4,6 +4,11 @@ version = "0.1.0"
 authors = ["abjorck <bjorck@gmail.com>"]
 edition = "2018"
 resolver = "2"
+license-file = "LICENSE"
+repository = "https://github.com/abjorck/minpixwin"
+readme = "README.md"
+categories = ["graphics","gui"]
+keywords = ["simple", "graphics", "pixels", "screen", "window"]
 
 [dependencies]
 pixels = "0.6"
