@@ -1,7 +1,7 @@
 # minpixwin
 minimize effort to render a pixel array to screen    
 
-very tiny wrapping of the neat `winit` crate 
+very tiny wrapping of the neat `pixels, winit` crates 
 
 ### example use
 

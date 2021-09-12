@@ -9,6 +9,7 @@ repository = "https://github.com/abjorck/minpixwin"
 readme = "README.md"
 categories = ["graphics","gui"]
 keywords = ["simple", "graphics", "pixels", "screen", "window"]
+description = "Create a window to render pixels to with minimal effort"
 
 [dependencies]
 pixels = "0.6"
